@@ -19,4 +19,5 @@ https://top.gg/servers/718901153651359776/join
 
 # Appeal
 **Spanish** Al ser una fuente pública no nos responsabilizamos de lo que hagan los usuarios, si por casualidad estas en un forceban, deberás apelar con ellos no con nosotros.
+
 **English** Being a public source we are not responsible for what users do, if by chance you are in a force, you should appeal it with them, not with us. 
