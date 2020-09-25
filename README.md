@@ -9,7 +9,7 @@ https://top.gg/servers/718901153651359776/join
 **Spanish**
 - Si tienes alguna duda sobre el uso / obtención de las ID públicadas puedes unirte al servidor de arriba.
 - Estás ID están publicas para aquellos bots que quieran empezar en el ambito de la seguridad en discord.
-- Todas las ID son RAIDERS confirmadas, si tu cuenta sale, no será por equivocación, estará por pruebas.
+- Todas las ID son RAIDERS confirmados, si tu cuenta sale, no será por equivocación, estará por pruebas.
 
 # Terms (English)
 **English**
