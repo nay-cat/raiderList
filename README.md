@@ -15,7 +15,7 @@ https://top.gg/servers/718901153651359776/join
 **English**
 - If you have any questions about the use / obtaining of the public IDs you can join the server above.
 - These IDs are public for those bots that want to start in the field of security in discord.
-- All IDs are confirmed RAIDERS, if your account leaves, it will not be by mistake, it will be for tests.
+- All IDs are confirmed RAIDERS, if your account is here, it will not be by mistake.
 
 # Appeal
 **Spanish** Al ser una fuente pública no nos responsabilizamos de lo que hagan los usuarios, si por casualidad estas en un forceban, deberás apelar con ellos no con nosotros.
